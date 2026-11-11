@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         SEI TRE-CE | Copiar número do processo
 // @namespace    https://sei.tre-ce.jus.br/
-// @version      1.12.6
+// @version      1.12.7
+// @author       Ramon Machado
 // @description  Copia o número do processo exibido ao lado do ícone no SEI.
 // @match        https://sei.tre-ce.jus.br/sei/*
 // @run-at       document-idle
